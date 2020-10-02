@@ -1,7 +1,9 @@
-# IGN-list
-List of In Game Names (IGN)
 
-# IGN-list List of In Game Names (IGN) # List of In Game Names (IGN) > This repository is a platform for open source enthusiasts to start with their open source contribution by adding their IN-GAME-NAME in any game that you play. 
+# IGN-list List of In Game Names (IGN) 
+
+# List of In Game Names (IGN) 
+
+This repository is a platform for open source enthusiasts to start with their open source contribution by adding their IN-GAME-NAME in any game that you play. 
 
 ## Begin your contributions here. 
 
